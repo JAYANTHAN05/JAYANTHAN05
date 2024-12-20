@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayanthan RM</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
+<img align='right' alt="Coding" width="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
 - 🔭 I’m currently working on [ML Code Template](https://github.com/JAYANTHAN05/ML-code-template-)
 
